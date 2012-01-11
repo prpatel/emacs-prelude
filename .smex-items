@@ -1,0 +1,23 @@
+
+;; ----- smex-history -----
+(
+ ecb-minor-mode
+ global-linum-mode
+ linum-mode
+ package-install
+ cd
+ 5x5
+ arp
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 3)
+ (auto-complete . 2)
+ (auto-complete-mode . 1)
+ (rsense-version . 1)
+ (rsense-open-project . 1)
+ (linum-mode . 1)
+ (global-linum-mode . 1)
+ (ecb-minor-mode . 1)
+)

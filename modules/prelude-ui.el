@@ -38,12 +38,9 @@
 ;; already disabled anyway
 (when (fboundp 'tool-bar-mode)
   (tool-bar-mode -1))
-;; the menu bar is mostly useless as well
-;; but removing it under OS X doesn't make much sense
-(unless (eq system-type 'darwin)
-  (menu-bar-mode -1))
-;; the blinking cursor is nothing, but an annoyance
-(blink-cursor-mode -1)
+
+(menu-bar-mode 1)
+(blink-cursor-mode 1)
 
 ;; disable startup screen
 (setq inhibit-startup-screen t)

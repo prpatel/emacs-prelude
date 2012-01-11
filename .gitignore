@@ -3,9 +3,6 @@ auto-save-list
 recentf
 savehist
 saveplace
-elpa
-el-get
 semanticdb
-custom.el
 url
-personal/*.el
+
