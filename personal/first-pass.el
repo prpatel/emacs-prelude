@@ -1,5 +1,12 @@
 (setq-default tab-width 2)
 (set-frame-font "Inconsolata-14")
+(setq utf-translate-cjk-mode nil) ; disable CJK coding/encoding (Chinese/Japanese/Korean characters)
+(set-language-environment 'utf-8)
+(setq locale-coding-system 'utf-8)
+(set-default-coding-systems 'utf-8)
+(set-terminal-coding-system 'utf-8)
+(set-selection-coding-system 'utf-8)
+(prefer-coding-system 'utf-8)
 ;Rsense
 (setq rsense-home "/usr/lib/rsense-0.3")
 (add-to-list 'load-path (concat rsense-home "/etc"))
@@ -22,5 +29,4 @@
 (require 'ecb)
 (require 'ecb-autoloads)
 (ecb-activate)
-(ecb-byte-compile)
 ;http://lists.gnu.org/archive/html/help-gnu-emacs/2011-09/msg00192.html

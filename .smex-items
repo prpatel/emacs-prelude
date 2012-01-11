@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
- ecb-minor-mode
  global-linum-mode
  linum-mode
  package-install
  cd
  5x5
  arp
+ dbx
 )
 
 ;; ----- smex-data -----
