@@ -1,0 +1,7 @@
+cd ../
+cd ../
+ls
+rails s -u 
+bundle exec rails s -u
+quit
+exit

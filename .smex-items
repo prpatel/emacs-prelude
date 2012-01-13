@@ -1,18 +1,18 @@
 
 ;; ----- smex-history -----
 (
+ shell
+ cd
+ eshell
+ erc
  package-install
  global-linum-mode
  linum-mode
- cd
- 5x5
- arp
- dbx
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 7)
+ (package-install . 10)
  (auto-complete . 2)
  (auto-complete-mode . 1)
  (rsense-version . 1)
@@ -21,4 +21,11 @@
  (global-linum-mode . 1)
  (ecb-minor-mode . 1)
  (rdebug . 1)
+ (cd . 5)
+ (shell . 3)
+ (rdebug-track-attach . 3)
+ (erc . 1)
+ (erc-channel-names . 1)
+ (erc-join-channel . 2)
+ (eshell . 1)
 )
