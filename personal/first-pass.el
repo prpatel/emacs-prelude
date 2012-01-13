@@ -20,11 +20,16 @@
 (load-file "~/.emacs.d/vendor/cedet-1.0/common/cedet.el")
 (add-to-list 'load-path "~/.emacs.d/vendor/ruby-debug-extra/emacs")
 (require 'rdebug)
+(setq rdebug-short-key-mode t)
 (setq stack-trace-on-error t)
 (add-to-list 'load-path "~/.emacs.d/vendor/ecb-2.40")
 (require 'ecb)
 (require 'ecb-autoloads)
 (ecb-activate)
 (ecb-byte-compile)
+(global-set-key [f9] 'gud-step)
+(global-set-key [f10] 'gud-next)
+(global-set-key [f11] 'gud-cont)
+(global-set-key "\C-c\C-d" 'rdebug)
 ;http://lists.gnu.org/archive/html/help-gnu-emacs/2011-09/msg00192.html
 ;TODO:  configure el-get to grab all requirements so I can place git-ignore on the el-get directories.

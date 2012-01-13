@@ -1,0 +1,35 @@
+\initial {C}
+\entry {\code {comint-copy-old-input}}{15}
+\entry {\code {comint-delete-output}}{15}
+\initial {G}
+\entry {\code {gud-break}}{15}
+\entry {\code {gud-cont (c)}}{15}
+\entry {\code {gud-next (n)}}{15}
+\entry {\code {gud-refresh}}{15}
+\entry {\code {gud-remove}}{15}
+\entry {\code {gud-step (s)}}{15}
+\entry {\code {gud-step-plus (+)}}{15}
+\entry {\code {gud-tbreak}}{15}
+\initial {R}
+\entry {\code {rdebug-breakpoints-mode}}{14}
+\entry {\code {rdebug-display-breakpoints-buffer (\kbd {B})}}{13}
+\entry {\code {rdebug-display-cmd-buffer (\kbd {C})}}{13}
+\entry {\code {rdebug-display-debugger-window-configuration}}{13}
+\entry {\code {rdebug-display-original-window-configuration}}{13}
+\entry {\code {rdebug-display-output-buffer (\kbd {?})}}{13}
+\entry {\code {rdebug-display-secondary-window-help-buffer (\kbd {?})}}{13}
+\entry {\code {rdebug-display-stack-buffer (\kbd {T})}}{13}
+\entry {\code {rdebug-display-variables-buffer (\kbd {V})}}{13}
+\entry {\code {rdebug-display-watch-buffer (\kbd {W})}}{13}
+\entry {\code {rdebug-frames-mode}}{14}
+\entry {\code {rdebug-goto-breakpoint}}{14}
+\entry {\code {rdebug-goto-breakpoint-mouse}}{14}
+\entry {\code {rdebug-goto-entry-n}}{14}
+\entry {\code {rdebug-goto-stack-frame}}{14}
+\entry {\code {rdebug-quit (q)}}{14}
+\entry {\code {rdebug-restore-windows}}{14}
+\entry {\code {rdebug-variables-edit}}{14}
+\entry {\code {rdebug-watch-add}}{14}
+\entry {\code {rdebug-watch-delete}}{14}
+\entry {\code {rdebug-watch-edit}}{14}
+\entry {\code {rdebug-watch-mode}}{14}

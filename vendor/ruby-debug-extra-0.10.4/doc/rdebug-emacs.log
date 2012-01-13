@@ -1,0 +1,218 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdfetex 2011.7.3)  11 JAN 2012 16:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input /Users/administrator/Downloads/ruby-debug-extra-0.10.4/do
+c/rdebug-emacs.texi
+(/Users/administrator/Downloads/ruby-debug-extra-0.10.4/doc/rdebug-emacs.texi
+(./texinfo.tex Loading texinfo [version 2009-08-14.15]:
+\bindingoffset=\dimen16
+\normaloffset=\dimen17
+\pagewidth=\dimen18
+\pageheight=\dimen19
+\outerhsize=\dimen20
+\outervsize=\dimen21
+\cornerlong=\dimen22
+\cornerthick=\dimen23
+\topandbottommargin=\dimen24
+\headlinebox=\box16
+\footlinebox=\box17
+\margin=\insert252
+\EMsimple=\toks13
+\groupbox=\box18
+\groupinvalidhelp=\toks14
+\mil=\dimen25
+\exdentamount=\skip18
+\inmarginspacing=\skip19
+ pdf,
+\tempnum=\count27
+\lnkcount=\count28
+\filename=\toks15
+\filenamelength=\count29
+\pgn=\count30
+\toksA=\toks16
+\toksB=\toks17
+\toksC=\toks18
+\toksD=\toks19
+\boxA=\box19
+\countA=\count31
+\nopdfimagehelp=\toks20
+ fonts,
+\sffam=\fam8
+\textleading=\dimen26
+ markup,
+\fontdepth=\count32
+
+glyphs,
+\errorbox=\box20
+ page headings,
+\titlepagetopglue=\skip20
+\titlepagebottomglue=\skip21
+\evenheadline=\toks21
+\oddheadline=\toks22
+\evenfootline=\toks23
+\oddfootline=\toks24
+ tables,
+\tableindent=\dimen27
+\itemindent=\dimen28
+\itemmargin=\dimen29
+\itemmax=\dimen30
+\itemno=\count33
+\multitableparskip=\skip22
+\multitableparindent=\skip23
+\multitablecolspace=\dimen31
+\multitablelinespace=\skip24
+\colcount=\count34
+\everytab=\toks25
+ conditionals,
+\doignorecount=\count35
+ indexing,
+\whatsitskip=\skip25
+\whatsitpenalty=\count36
+\secondaryindent=\skip26
+\partialpage=\box21
+\doublecolumnhsize=\dimen32
+ sectioning,
+\unnumberedno=\count37
+\chapno=\count38
+\secno=\count39
+\subsecno=\count40
+\subsubsecno=\count41
+\appendixno=\count42
+\absseclevel=\count43
+\secbase=\count44
+\chapheadingskip=\skip27
+\secheadingskip=\skip28
+\subsecheadingskip=\skip29
+ toc,
+\tocfile=\write0
+\contentsrightmargin=\skip30
+\savepageno=\count45
+\lastnegativepageno=\count46
+\tocindent=\dimen33
+
+environments,
+\lispnarrowing=\skip31
+\envskipamount=\skip32
+\circthick=\dimen34
+\cartouter=\dimen35
+\cartinner=\dimen36
+\normbskip=\skip33
+\normpskip=\skip34
+\normlskip=\skip35
+\lskip=\skip36
+\rskip=\skip37
+\nonfillparindent=\dimen37
+\tabw=\dimen38
+ defuns,
+\defbodyindent=\skip38
+\defargsindent=\skip39
+\deflastargmargin=\skip40
+\defunpenalty=\count47
+\parencount=\count48
+\brackcount=\count49
+ macros,
+\paramno=\count50
+\macname=\toks26
+ cross references,
+\auxfile=\write1
+\savesfregister=\count51
+ insertions,
+\footnoteno=\count52
+\SAVEfootins=\box22
+\SAVEmargin=\box23
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/epsf/epsf.tex
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read1
+\epsfframemargin=\dimen39
+\epsfframethickness=\dimen40
+\epsfrsize=\dimen41
+\epsftmp=\dimen42
+\epsftsize=\dimen43
+\epsfxsize=\dimen44
+\epsfysize=\dimen45
+\pspoints=\dimen46
+)
+\noepsfhelp=\toks27
+ localization,
+\nolanghelp=\toks28
+\countUTFx=\count53
+\countUTFy=\count54
+\countUTFz=\count55
+ formatting,
+\defaultparindent=\dimen47
+ and turning on texinfo input format.)
+(./rdebug-emacs.aux)
+\openout1 = `rdebug-emacs.aux'.
+
+@cpindfile=@write2
+@fnindfile=@write3
+@vrindfile=@write4
+@tpindfile=@write5
+@kyindfile=@write6
+@pgindfile=@write7
+ (./version-rdebug-emacs.texi) [1
+\openout2 = `rdebug-emacs.cp'.
+
+\openout3 = `rdebug-emacs.fn'.
+
+\openout4 = `rdebug-emacs.vr'.
+
+\openout5 = `rdebug-emacs.tp'.
+
+\openout6 = `rdebug-emacs.ky'.
+
+\openout7 = `rdebug-emacs.pg'.
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+(Debugging with rdebug in GNU Emacs)
+\openout0 = `rdebug-emacs.toc'.
+
+ Chapter 1 [1]
+Overfull \hbox (24.51877pt too wide) in paragraph at lines 143--145
+[]@textrm Download the ruby-debug-extra tar-ball from ruby-forge [][]@texttt ht
+tp://rubyforge.org/frs/?group_
+
+@hbox(7.60416+2.43333)x433.62, glue set - 1.0
+.@hbox(0.0+0.0)x15.0
+.@textrm D
+.@textrm o
+.@kern-0.30418
+.@textrm w
+.etc.
+
+[2] Chapter 2 [3] [4] [5] [6] Chapter 3 [7] [8] [9] [10] [11] Chapter 4
+[12] [13] [14] (Emacs Command Index) [15] (./rdebug-emacs.pgs)
+(Emacs Function Index) [16] (./rdebug-emacs.fns) (Key Binding Index) [17]
+[18] [19] ) 
+Here is how much of TeX's memory you used:
+ 1868 strings out of 495313
+ 23711 string characters out of 3159200
+ 74618 words of memory out of 3000000
+ 3199 multiletter control sequences out of 15000+200000
+ 32127 words of font info for 112 fonts, out of 3000000 for 9000
+ 1017 hyphenation exceptions out of 8191
+ 14i,5n,17p,369b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mb10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmcs
+c10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsltt10.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/
+local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on rdebug-emacs.pdf (21 pages, 215968 bytes).
+PDF statistics:
+ 247 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

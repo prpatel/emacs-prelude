@@ -12,7 +12,7 @@
 
 ;; ----- smex-data -----
 (
- (package-install . 5)
+ (package-install . 7)
  (auto-complete . 2)
  (auto-complete-mode . 1)
  (rsense-version . 1)
@@ -20,4 +20,5 @@
  (linum-mode . 1)
  (global-linum-mode . 1)
  (ecb-minor-mode . 1)
+ (rdebug . 1)
 )

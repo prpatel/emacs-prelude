@@ -1,0 +1,32 @@
+\entry{rdebug-display-breakpoints-buffer (B)}{13}{\code {rdebug-display-breakpoints-buffer (\kbd {B})}}
+\entry{rdebug-display-cmd-buffer (C)}{13}{\code {rdebug-display-cmd-buffer (\kbd {C})}}
+\entry{rdebug-display-output-buffer (?)}{13}{\code {rdebug-display-output-buffer (\kbd {?})}}
+\entry{rdebug-display-secondary-window-help-buffer (?)}{13}{\code {rdebug-display-secondary-window-help-buffer (\kbd {?})}}
+\entry{rdebug-display-stack-buffer (T)}{13}{\code {rdebug-display-stack-buffer (\kbd {T})}}
+\entry{rdebug-display-variables-buffer (V)}{13}{\code {rdebug-display-variables-buffer (\kbd {V})}}
+\entry{rdebug-display-watch-buffer (W)}{13}{\code {rdebug-display-watch-buffer (\kbd {W})}}
+\entry{rdebug-display-debugger-window-configuration}{13}{\code {rdebug-display-debugger-window-configuration}}
+\entry{rdebug-display-original-window-configuration}{13}{\code {rdebug-display-original-window-configuration}}
+\entry{rdebug-goto-entry-n}{14}{\code {rdebug-goto-entry-n}}
+\entry{rdebug-quit (q)}{14}{\code {rdebug-quit (q)}}
+\entry{rdebug-restore-windows}{14}{\code {rdebug-restore-windows}}
+\entry{rdebug-goto-breakpoint}{14}{\code {rdebug-goto-breakpoint}}
+\entry{rdebug-goto-breakpoint-mouse}{14}{\code {rdebug-goto-breakpoint-mouse}}
+\entry{rdebug-breakpoints-mode}{14}{\code {rdebug-breakpoints-mode}}
+\entry{rdebug-goto-stack-frame}{14}{\code {rdebug-goto-stack-frame}}
+\entry{rdebug-frames-mode}{14}{\code {rdebug-frames-mode}}
+\entry{rdebug-variables-edit}{14}{\code {rdebug-variables-edit}}
+\entry{rdebug-watch-add}{14}{\code {rdebug-watch-add}}
+\entry{rdebug-watch-delete}{14}{\code {rdebug-watch-delete}}
+\entry{rdebug-watch-edit}{14}{\code {rdebug-watch-edit}}
+\entry{rdebug-watch-mode}{14}{\code {rdebug-watch-mode}}
+\entry{comint-copy-old-input}{15}{\code {comint-copy-old-input}}
+\entry{comint-delete-output}{15}{\code {comint-delete-output}}
+\entry{gud-break}{15}{\code {gud-break}}
+\entry{gud-cont (c)}{15}{\code {gud-cont (c)}}
+\entry{gud-next (n)}{15}{\code {gud-next (n)}}
+\entry{gud-refresh}{15}{\code {gud-refresh}}
+\entry{gud-remove}{15}{\code {gud-remove}}
+\entry{gud-step (s)}{15}{\code {gud-step (s)}}
+\entry{gud-step-plus (+)}{15}{\code {gud-step-plus (+)}}
+\entry{gud-tbreak}{15}{\code {gud-tbreak}}
