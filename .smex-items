@@ -1,31 +1,46 @@
 
 ;; ----- smex-history -----
 (
- shell
  cd
- eshell
+ rinari-web-server
+ erc-join-channel
  erc
  package-install
- global-linum-mode
- linum-mode
+ dired
+ shell
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 10)
+ (package-install . 18)
  (auto-complete . 2)
  (auto-complete-mode . 1)
  (rsense-version . 1)
- (rsense-open-project . 1)
+ (rsense-open-project . 2)
  (linum-mode . 1)
  (global-linum-mode . 1)
  (ecb-minor-mode . 1)
  (rdebug . 1)
- (cd . 5)
- (shell . 3)
+ (cd . 10)
+ (shell . 9)
  (rdebug-track-attach . 3)
- (erc . 1)
+ (erc . 3)
  (erc-channel-names . 1)
- (erc-join-channel . 2)
+ (erc-join-channel . 6)
  (eshell . 1)
+ (eval-buffer . 1)
+ (paredit-copy-as-kill . 1)
+ (rinari-minor-mode . 4)
+ (rinari-test . 15)
+ (org-mode . 1)
+ (ruby-mode . 1)
+ (rinari-web-server . 5)
+ (rvm-use . 13)
+ (ruby-compilation-minor-mode . 1)
+ (rvm-use-default . 2)
+ (rails-test:run . 1)
+ (rails-lib-layout:menu . 1)
+ (rails-lib-layout:switch-to-lib . 1)
+ (rvm-autodetect-ruby . 1)
+ (dired . 1)
 )

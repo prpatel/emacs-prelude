@@ -1,5 +1,6 @@
 (setq-default tab-width 2)
-(set-frame-font "Liberation Mono-13")
+;(set-frame-font "Liberation Mono-13")
+(set-frame-font "Anonymous Pro-14")
 (setq utf-translate-cjk-mode nil) ; disable CJK coding/encoding (Chinese/Japanese/Korean characters)
 (set-language-environment 'utf-8)
 (setq locale-coding-system 'utf-8)
@@ -45,9 +46,20 @@
 (global-set-key (kbd "S-<right>") 'windmove-right)
 (global-set-key (kbd "S-<left>") 'windmove-left)
 (kill-buffer "*scratch*")
-(kill-buffer "*Messages*")
+;(kill-buffer "*Messages*")
 (kill-buffer "*Compile-Log*")
-;I find it very annoying to press Alt+x so I am mapping it to Shift<space> as well.
-(global-set-key (kbd "C-SPC") 'execute-extended-command)
+;I find it very annoying to press Meta+x on a mbp so I am mapping it to this well.
+(global-set-key (kbd "C-x C-m") 'execute-extended-command)
+(defun rinari-ruby-mode-hook ()
+  (require 'rinari)
+  (rinari-minor-mode))
+(add-hook 'ruby-mode-hook 'rinari-ruby-mode-hook)
+
+(add-to-list 'load-path (expand-file-name "~/.emacs.d/vendor/rails-minor-mode"))
+(require 'rails)
+(load-file "~/.emacs.d/vendor/rvm/rvm.el")
+(require 'rvm) 
+(rvm-use-default)
+
 ;http://lists.gnu.org/archive/html/help-gnu-emacs/2011-09/msg00192.html
 ;TODO:  configure el-get to grab all requirements so I can place git-ignore on the el-get directories.
