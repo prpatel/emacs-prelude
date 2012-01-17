@@ -34,7 +34,8 @@
 ;;; Code:
 
 (message "%s" "Emacs Prelude is powering up. Be patient, Master.")
-
+(setq ecb-cedet-required-version-max '(1 1 0 0))
+(setq stack-trace-on-error t)
 ;; On OS X Emacs doesn't use the shell PATH if it's not started from
 ;; the shell. If you're using homebrew modifying the PATH is essential.
 (if (eq system-type 'darwin)

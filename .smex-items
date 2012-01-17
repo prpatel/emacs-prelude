@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ ecb-activate
+ list-packages
+ list-fontsets
+ isearchb-activate
  cd
- rinari-web-server
- erc-join-channel
  erc
  package-install
- dired
- shell
 )
 
 ;; ----- smex-data -----
@@ -43,4 +43,8 @@
  (rails-lib-layout:switch-to-lib . 1)
  (rvm-autodetect-ruby . 1)
  (dired . 1)
+ (list-packages . 4)
+ (isearchb-activate . 1)
+ (list-fontsets . 1)
+ (ecb-activate . 13)
 )
